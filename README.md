@@ -34,15 +34,14 @@ Things I am using
 ## Design / Social Media
 
 * [`broz`](https://github.com/antfu/broz) - Frameless browser for screenshots
-* [Figma](https://www.figma.com/) - Illustrations, Logos, Social Media Banners
 * [OBS](https://obsproject.com/) - Streaming & Recording
 * [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Video Editing
-* [tldraw](https://www.tldraw.com/?ref=pidoutv.com) - Lovely draw
+* [tldraw](https://www.tldraw.com/?ref=pidoutv.com) - Lovely Boundless Draw
 
 ## Hardware
 
-* MacBook Air 13.6' M3 24GB
-* Microphone: IPhone 11 Green
+* MacBook Air 13.6' M3 24GB Starlight
+* Microphone: IPhone 11 CH/A Green with Sharp LCD Screen
 * Monitor: waiting...
 
 ## CLI
@@ -56,6 +55,7 @@ Things I am using
   * Config: [antfu/eslint-config](https://github.com/antfu/eslint-config)
 * Build Tools for Libraries
   * [`unbuild`](https://github.com/unjs/unbuild) - Most of the time
+* [`homebrew`](https://brew.sh/) - Unix Package Manager
 
 ## Starter Templates
 
