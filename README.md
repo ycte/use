@@ -41,7 +41,7 @@ Things I am using
 ## Hardware
 
 * MacBook Air 13.6' M3 24GB Starlight
-* Microphone: IPhone 11 CH/A Green with Sharp LCD Screen
+* Microphone: IPhone 11 CH/A Green with Sharp LCD Display
 * Monitor: waiting...
 
 ## CLI
