@@ -16,6 +16,14 @@ Things I am using
 * Product Icons: [Carbon Icons](https://github.com/antfu/vscode-icons-carbon)
 * Formatting & Linting: [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) with [`@antfu/eslint-config`](https://github.com/antfu/eslint-config)
 
+## Books
+
+* 《黑客与画家》 - [美] Paul Graham 著 阮一峰 译
+
+## Books to Read
+
+* Lord of the Flies - William Golding
+
 ## Chrome Extensions
 
 * [Refined GitHub](https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf) - No-brainer must-have
