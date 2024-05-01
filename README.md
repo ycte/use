@@ -23,6 +23,7 @@ Things I am using
 ## Books to Read
 
 * Lord of the Flies - William Golding
+* 人月神话
 
 ## Chrome Extensions
 
